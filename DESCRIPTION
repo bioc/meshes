@@ -23,7 +23,7 @@ Imports:
     utils,
     AnnotationHub,
     MeSHDbi,
-    yulab.utils
+    yulab.utils (>= 0.1.5)
 Suggests:
     knitr,
     rmarkdown,
