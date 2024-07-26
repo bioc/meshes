@@ -8,3 +8,4 @@ appveyor.yml
 .github
 site_src
 docs
+README.Rmd

@@ -19,10 +19,5 @@ Useful links:
 \author{
 \strong{Maintainer}: Guangchuang Yu \email{guangchuangyu@gmail.com}
 
-Other contributors:
-\itemize{
-  \item Erqiang Hu \email{13766876214@163.com} [contributor]
-}
-
 }
 \keyword{internal}
