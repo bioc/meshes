@@ -1,6 +1,6 @@
 Package: meshes
 Title: MeSH Enrichment and Semantic analyses
-Version: 1.31.1
+Version: 1.31.2
 Authors@R: c( person(given = "Guangchuang", family = "Yu",        email = "guangchuangyu@gmail.com",   role = c("aut", "cre")))
 Description: MeSH (Medical Subject Headings) is the NLM controlled vocabulary
 	     used to manually index articles for MEDLINE/PubMed. MeSH terms were
@@ -18,7 +18,7 @@ Imports:
     AnnotationDbi,
     DOSE,
     enrichplot,
-    GOSemSim,
+    GOSemSim (>= 2.31.2),
     methods,
     utils,
     AnnotationHub,
